@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Roman Blog</title>
+    <link>http://www.blog.romanfedoruk.com/</link>
+    <description>Recent content on Roman Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Dec 2021 15:07:48 -0500</lastBuildDate><atom:link href="http://www.blog.romanfedoruk.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FirstPost</title>
+      <link>http://www.blog.romanfedoruk.com/posts/firstpost/</link>
+      <pubDate>Mon, 27 Dec 2021 15:07:48 -0500</pubDate>
+      
+      <guid>http://www.blog.romanfedoruk.com/posts/firstpost/</guid>
+      <description>Test! </description>
+    </item>
+    
+  </channel>
+</rss>
